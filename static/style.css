@@ -115,7 +115,8 @@ section#inicio div#arraste {
 
 section#inicio div#arraste a {
   text-decoration: none;
-  color: #021124;
+  color: #ffffff;
+  text-shadow: 4px 4px 10px #000000;
 }
 
 i.menu-mobile {
@@ -162,4 +163,22 @@ i.menu-mobile {
    #main{
     margin-left: 0;
    }
+}
+
+body::-webkit-scrollbar {
+  width: 10px;               
+}
+
+body::-webkit-scrollbar-track {
+  background: #021124;        
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: rgb(53, 53, 73);    
+  border-radius: 15px;       
+  border: 3px solid #fff;  
+}
+
+hr{
+  border-color: #021124;                    /* Linha da lista*/
 }
