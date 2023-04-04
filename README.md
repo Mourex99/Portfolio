@@ -1,3 +1,3 @@
 # Portfolio
 
-## Este é um projeto pessoal no qual construi meu primeiro Portfólio responsivo, nele será encontrado informações da minha carreira e especificações sobre minhas habilidades e estudos.
+### Este é um projeto pessoal que construi  meu primeiro Portfólio Responsivo, nele irá encontrar mais informações sobre minha carreira e especificaçõe de meus estudos.
