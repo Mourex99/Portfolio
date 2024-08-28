@@ -216,6 +216,15 @@ hr {
   margin-bottom: 10px;
 }
 
+.cv .cv-item h3 {
+  line-height: 26px;
+  font-weight: 600;
+  text-transform:capitalize;
+  font-family: "Poppins", sans-serif;
+  color: #021124;
+  margin-bottom: 10px;
+}
+
 .cv .cv-item h5 {
   background: #e4edf9;
   padding: 5px 15px;
